@@ -1,6 +1,6 @@
 # AWS-Skills-to-Jobs-CTF-2026
 My participation in the AWS Skills to Jobs CTF 2026 powered by SANS, 
-held from March 11–13, 2026 (ET).
+held from March 11–13, 2026 (ET). My display name for this event was "soupisdeli".
 
 ## Results
 I ranked 2nd among Singaporean participants, confirmed directly by a 
