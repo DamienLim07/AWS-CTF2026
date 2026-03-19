@@ -1,5 +1,5 @@
 # AWS-Skills-to-Jobs-CTF-2026
-My participation in the AWS Skills to Jobs CTF 2026 powered by SANS
+My participation in the AWS Skills to Jobs CTF 2026 powered by SANS, held from March 11-13 (ET).
 
 6 Hints were activated, 1 for the intro challenge and the other 5 on an uncompleted challenge, adding no value to the final score.
 
